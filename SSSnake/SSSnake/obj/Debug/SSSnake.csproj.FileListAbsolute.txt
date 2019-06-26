@@ -1,0 +1,15 @@
+D:\Документы\ВятГУ\Уч_прак_прогр\EP2C2S_3P_Snake\SSSnake\SSSnake\bin\Debug\SSSnake.exe.config
+D:\Документы\ВятГУ\Уч_прак_прогр\EP2C2S_3P_Snake\SSSnake\SSSnake\bin\Debug\SSSnake.exe
+D:\Документы\ВятГУ\Уч_прак_прогр\EP2C2S_3P_Snake\SSSnake\SSSnake\bin\Debug\SSSnake.pdb
+D:\Документы\ВятГУ\Уч_прак_прогр\EP2C2S_3P_Snake\SSSnake\SSSnake\obj\Debug\SSSnake.csprojAssemblyReference.cache
+D:\Документы\ВятГУ\Уч_прак_прогр\EP2C2S_3P_Snake\SSSnake\SSSnake\obj\Debug\MainWindow.g.cs
+D:\Документы\ВятГУ\Уч_прак_прогр\EP2C2S_3P_Snake\SSSnake\SSSnake\obj\Debug\App.g.cs
+D:\Документы\ВятГУ\Уч_прак_прогр\EP2C2S_3P_Snake\SSSnake\SSSnake\obj\Debug\SSSnake_MarkupCompile.cache
+D:\Документы\ВятГУ\Уч_прак_прогр\EP2C2S_3P_Snake\SSSnake\SSSnake\obj\Debug\SSSnake_MarkupCompile.lref
+D:\Документы\ВятГУ\Уч_прак_прогр\EP2C2S_3P_Snake\SSSnake\SSSnake\obj\Debug\MainWindow.baml
+D:\Документы\ВятГУ\Уч_прак_прогр\EP2C2S_3P_Snake\SSSnake\SSSnake\obj\Debug\SSSnake.g.resources
+D:\Документы\ВятГУ\Уч_прак_прогр\EP2C2S_3P_Snake\SSSnake\SSSnake\obj\Debug\SSSnake.Properties.Resources.resources
+D:\Документы\ВятГУ\Уч_прак_прогр\EP2C2S_3P_Snake\SSSnake\SSSnake\obj\Debug\SSSnake.csproj.GenerateResource.cache
+D:\Документы\ВятГУ\Уч_прак_прогр\EP2C2S_3P_Snake\SSSnake\SSSnake\obj\Debug\SSSnake.csproj.CoreCompileInputs.cache
+D:\Документы\ВятГУ\Уч_прак_прогр\EP2C2S_3P_Snake\SSSnake\SSSnake\obj\Debug\SSSnake.exe
+D:\Документы\ВятГУ\Уч_прак_прогр\EP2C2S_3P_Snake\SSSnake\SSSnake\obj\Debug\SSSnake.pdb
